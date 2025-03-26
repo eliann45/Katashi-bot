@@ -90,10 +90,10 @@ apt upgrade
 pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/KatashiFukushima/KatashiBot-MD
+git clone https://github.com/eliann45/Katashi-bot/
 ```
 ```bash
-cd KatashiBot-MD
+cd Katashi–bot
 ```
 ```bash
 yarn install
@@ -110,7 +110,7 @@ npm start
   
 ### 📁 (OPCIÓN 3) INSTALACIÓN POR TERMUX - ARCHIVOS
 > **Note** Descargué y Descomprime
-### [`KatashiBot-MD ~ Archivos`](https://github.com/KatashiFukushima/KatashiBot-MD/archive/refs/heads/master.zip)
+### [`KatashiBot-MD ~ Archivos`](https://github.com/elianm45/Katashi–bot/archive/refs/heads/master.zip)
 [![blog](https://img.shields.io/badge/NO_TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://www.youtube.com/shorts/ZLJYDUM6vSY)
 ```bash
@@ -118,7 +118,7 @@ termux-setup-storage
 apt update
 apt upgrade
 pkg install -y git nodejs ffmpeg imagemagick yarn
-cd storage/downloads/KatashiBot-MD-master/KatashiBot-MD-master 
+cd storage/downloads/Kataspi–bot-master/Katashi–bot-master 
 yarn install
 npm install
 npm start
@@ -130,7 +130,7 @@ npm start
 <p align="center">
   
 ### 🚀 USAR KATASHIBOT 24/7 EN TERMUX 
-> Ejecutar estos comandos dentro de la carpeta KatashiBot-MD
+> Ejecutar estos comandos dentro de la carpetaKatashi-bot
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ``` 
@@ -157,7 +157,7 @@ pm2 start index
 ### 🥷🏻 ACTUALIZAR KATASHIBOT
 > **Note** Comandos para actualizar KatashiBot-MD de forma automática
 ```bash
-grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/KatashiFukushima/KatashiBot-MD/master/update.sh | bash 
+grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/eliann45/Katashi-bot/master/update.sh | bash 
 ```
 #### Para que no pierda su progreso en KatashiBot, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 > **Warning** Estos comandos solo funcionan para TERMUX, REPLIT, LINUX                           
@@ -165,12 +165,12 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 <p align="center">
 
 
-> Recuerda leer la **[Política de KatashiBot. 🥷](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/terms.md)** antes de hacer algo con este repositorio. 
+> Recuerda leer la **[Política de KatashiBot. 🥷](https://github.com/eliann45/Katashi-bot/blob/master/terms.md)** antes de hacer algo con este repositorio. 
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
   
-### 💠 [`IDIOMAS DISPONIBLES PARA KATASHIBOT`](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/config.js) 
+### 💠 [`IDIOMAS DISPONIBLES PARA KATASHIBOT`](https://github.com/eliann45/Katashi-bot/blob/master/config.js) 
 #### 🌐 Español  
 #### 🌐 Inglés (English) 
 #### 🌐 Portugués (Português)
@@ -183,8 +183,8 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 <p align="center">
 
 ### 🌟 DESARROLLADORES
-<a href="https://github.com/KatashiFukushima/KatashiBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=KatashiFukushima/KatashiBot-MD" /> 
+<a href="https://github.com/eliann45/Katashi-bot/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=eliann45/Katashi-bot" /> 
 </a>
 
 ### 🌟 AGRADECIMIENTOS
