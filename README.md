@@ -182,10 +182,6 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
 
-### 🌟 DESARROLLADORES
-<a href="https://github.com/eliann45/Katashi-bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=eliann45/Katashi-bot" /> 
-</a>
 
 ### 🌟 AGRADECIMIENTOS
 [![federico130](https://github.com/federico130-Li.png?size=60)](https://github.com/federico130-Li) 
