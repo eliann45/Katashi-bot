@@ -188,8 +188,8 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 </a>
 
 ### 🌟 AGRADECIMIENTOS
-[![TheShadowBrokers1](https://github.com/GataNina-Li.png?size=60)](https://github.com/GataNina-Li) 
+[![federico130](https://github.com/GataNina-Li.png?size=60)](https://github.com/GataNina-Li) 
 
 ### 🌟 CREADOR 
-[![KatashiFukushima](https://github.com/KatashiFukushima.png?size=100)](https://github.com/KatashiFukushima) 
-> Copyright (c) 2024 **[KatashiFukushima](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/LICENSE)**.
+[![eliann45](https://github.com/KatashiFukushima.png?size=100)](https://github.com/KatashiFukushima) 
+> Copyright (c) 2024 **[eliann45](https://github.com/eliann45/KatashiBot-MD/blob/master/LICENSE)**.
