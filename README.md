@@ -2,7 +2,7 @@
 > <b>🚀 VERSIÓN 3.0</b>
 
 <p align="center"> 
-<a href="https://github.com/KatashiFukushima"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1F733&width=435&lines=KatashiBot-MD;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
+<a href="https://github.com/eliann45/Katashi-bot/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1F733&width=435&lines=KatashiBot-MD;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -56,7 +56,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 // Parámetros editables
 
 // REFERENCIA
-"wget -O - https://raw.githubusercontent.com/KatashiFukushima/KatashiBot-MD/master/katashi.sh | bash"
+"wget -O - https://raw.githubusercontent.com/eliann45/Katashi–Bot/master/katashi.sh | bash"
 
 // PARÁMETROS QUE PUEDE SER MODIFICADOS --> "[...]"
 "wget -O - https://raw.githubusercontent.com/[usuario]/[repositorio]/[rama]/katashi.sh | bash"
@@ -68,7 +68,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 //Ejemplo: git clone https://github.com/KatashiFukushima/KatashiBot-MD.git
 
 209 --> "cd [repositorio]"
-//Ejemplo: cd KatashiBot-MD
+//Ejemplo: cd Katashi–Bot
 
 //Una vez hecho estos cambios ejecute los nuevos comandos en Termux
 ```
@@ -188,7 +188,7 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 </a>
 
 ### 🌟 AGRADECIMIENTOS
-[![federico130](https://github.com/GataNina-Li.png?size=60)](https://github.com/GataNina-Li) 
+[![federico130](https://github.com/federico130-Li.png?size=60)](https://github.com/federico130-Li) 
 
 ### 🌟 CREADOR 
 [![eliann45](https://github.com/KatashiFukushima.png?size=100)](https://github.com/KatashiFukushima) 
