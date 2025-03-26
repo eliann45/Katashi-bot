@@ -191,5 +191,5 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 [![federico130](https://github.com/federico130-Li.png?size=60)](https://github.com/federico130-Li) 
 
 ### 🌟 CREADOR 
-[![eliann45](https://github.com/KatashiFukushima.png?size=100)](https://github.com/KatashiFukushima) 
+[![eliann45](https://github.com/eliann45.png?size=100)](https://github.com/eliann45) 
 > Copyright (c) 2024 **[eliann45](https://github.com/eliann45/KatashiBot-MD/blob/master/LICENSE)**.
