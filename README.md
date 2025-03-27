@@ -2,7 +2,7 @@
 > <b>🚀 VERSIÓN 3.0</b>
 
 <p align="center"> 
-<a href="https://github.com/eliann45/Katashi-bot/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1F733&width=435&lines=KatashiBot-MD;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
+<a href="https://github.com/eliann45/Katashi-bot/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1F733&width=435&lines=Katashi-bot;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -27,13 +27,13 @@
 </p>
 
 <p align="center">   
-<a href="[[https://github.com/eliann45/Katashi-bot](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot.git)/network/members"><img title="Forks" src="https://img.shields.io/github/forks/eliann45/Katashi-bot?label=Forks&color=blue&style=flat-square"></a>
+<a href="[[https://github.com/eliann45/Katashi-bot](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot)/network/members"><img title="Forks" src="https://img.shields.io/github/forks/eliann45/Katashi-bot?label=Forks&color=blue&style=flat-square"></a>
 <a href="[[https://github.com/eliann45/Katashi-bot](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot)/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/eliann45/Katashi-bot?label=Watchers&color=green&style=flat-square"></a>
-<a href="[[[[[[https://github.com/eliann45/Katashi-bot](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot)/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/eliann45/Katashi-bot?label=Stars&color=yellow&style=flat-square"></a>
+<a href="[[[[[[https://github.com/eliann45/Katashi-bot](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot)/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/eliann45/Katashi-bot?label=Stars&color=yellow&style=flat-square"></a>
 </p>
 
 ### Cuentas Oficiales:
-> Al acceder a la plataforma, obtendrás acceso a todos los enlaces oficiales de Katashi Fukushima. Además, te mantendremos informado con boletines y mensajes exclusivos sobre las últimas novedades. La página se actualiza constantemente para ofrecerte la información más relevante. ¡No te pierdas ninguna actualización y únete a nuestro canal ahora mismo!
+> Al acceder a la plataforma, obtendrás acceso a todos los enlaces oficiales de eliann45. Además, te mantendremos informado con boletines y mensajes exclusivos sobre las últimas novedades. La página se actualiza constantemente para ofrecerte la información más relevante. ¡No te pierdas ninguna actualización y únete a nuestro canal ahora mismo!
 
 <a href="https://www.atom.bio/katashifukushima">
 <img src="https://img.shields.io/badge/Redes_Sociales-000000%7D?style=for-the-badge&logo=biolink&logoColor=white">
@@ -65,7 +65,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 ```js
 //LÍNEAS A MODIFICAR
 205 --> "git clone https://github.com/[user]/[repositorio].git"
-//Ejemplo: git clone [https://github.com/eliann45/KatashiBot-MD](https://github.com/eliann45/Katashi-bot)
+//Ejemplo: git clone [https://github.com/eliann45/Katashi-bot](https://github.com/eliann45/Katashi-bot)
 
 209 --> "cd [repositorio]"
 //Ejemplo: cd Katashi–Bot
@@ -155,7 +155,7 @@ pm2 start index
 <p align="center">
   
 ### 🥷🏻 ACTUALIZAR KATASHIBOT
-> **Note** Comandos para actualizar KatashiBot-MD de forma automática
+> **Note** Comandos para actualizar Katashi-bot de forma automática
 ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/eliann45/Katashi-bot/master/update.sh | bash 
 ```
@@ -183,7 +183,7 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 <p align="center">
 
 
-### 🌟 AGRADECIMIENTOS
+### 🌟 DESARROLLADOR
 [![federico130](https://github.com/federico130.png?size=60)](https://github.com/federico130) 
 
 ### 🌟 CREADOR 
