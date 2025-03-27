@@ -2,7 +2,7 @@
 > <b>🚀 VERSIÓN 3.0</b>
 
 <p align="center"> 
-<a href="https://github.com/eliann45/Katashi-bot/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1F733&width=435&lines=Katashi-bot;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
+<a href="https://github.com/eliann45/Katashi-bot"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1F733&width=435&lines=Katashi-bot;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -35,7 +35,7 @@
 ### Cuentas Oficiales:
 > Al acceder a la plataforma, obtendrás acceso a todos los enlaces oficiales de eliann45. Además, te mantendremos informado con boletines y mensajes exclusivos sobre las últimas novedades. La página se actualiza constantemente para ofrecerte la información más relevante. ¡No te pierdas ninguna actualización y únete a nuestro canal ahora mismo!
 
-<a href="https://www.atom.bio/katashifukushima">
+<a href="https://www.atom.bio/eliann45">
 <img src="https://img.shields.io/badge/Redes_Sociales-000000%7D?style=for-the-badge&logo=biolink&logoColor=white">
 </a>
 
