@@ -180,7 +180,7 @@ const connectionOptions = {
 logger: pino({ level: 'silent' }),
 printQRInTerminal: opcion == '1' ? true : methodCodeQR ? true : false,
 mobile: MethodMobile, 
-browser: opcion == '1' ? ['KatashiBot-MD', 'Edge', '2.0.0'] : methodCodeQR ? ['KatashiBot-MD', 'Edge', '2.0.0'] : ['Ubuntu', 'Edge', '110.0.1587.56'],
+browser: opcion == '1' ? ['Katashi-bot', 'Edge', '2.0.0'] : methodCodeQR ? ['Katashi-bot', 'Edge', '2.0.0'] : ['Ubuntu', 'Edge', '110.0.1587.56'],
 auth: {
 creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, Pino({ level: "fatal" }).child({ level: "fatal" })),
@@ -282,7 +282,7 @@ process.on('uncaughtException', console.error);
 //process.send('reset') })
 /* ------------------------------------------------*/
 /* Código reconexión de sub-bots fases beta */
-/* Echo por: https://github.com/elrebelde21 */
+/* Echo por: https://github.com/federico130 */
 
 async function connectSubBots() {
 const subBotDirectory = './KatashiJadiBot';
