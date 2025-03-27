@@ -13,8 +13,8 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-['51979901365', '☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆', false],
-['51906662557', '𝙊𝙬𝙣𝙚𝙧', false],  
+['5491126852241', '☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆', false],
+['5491126852241', '𝙊𝙬𝙣𝙚𝙧', false],  
 ['5217442363122', '𝑖𝑍𝑖', false],
 ['59175655964', 'Alba070503', false],
 ['5217445404792'],
@@ -116,7 +116,7 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["519066625579", '𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂 💻', 1], 
+["5491126852241", '𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂 💻', 1], 
 ["5217442363122", '𝑖𝑍𝑖 👻', 1],  
 ["5493513446678", 'Martin Batman', 1],
 ["5218771647787", 'IssSG', 1],
