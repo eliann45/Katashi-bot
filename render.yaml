@@ -2,5 +2,5 @@ services:
   - type: web
     name: katashi-bot 
     env: docker
-    region: Frankfurt
+    region: Argentina
     plan: free
