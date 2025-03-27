@@ -35,7 +35,7 @@
 ### Cuentas Oficiales:
 > Al acceder a la plataforma, obtendrás acceso a todos los enlaces oficiales de eliann45. Además, te mantendremos informado con boletines y mensajes exclusivos sobre las últimas novedades. La página se actualiza constantemente para ofrecerte la información más relevante. ¡No te pierdas ninguna actualización y únete a nuestro canal ahora mismo!
 
-<a href="https://www.atom.bio/eliann45">
+<a href="https://atom.bio/vigevanif228">
 <img src="https://img.shields.io/badge/Redes_Sociales-000000%7D?style=for-the-badge&logo=biolink&logoColor=white">
 </a>
 
@@ -110,7 +110,7 @@ npm start
   
 ### 📁 (OPCIÓN 3) INSTALACIÓN POR TERMUX - ARCHIVOS
 > **Note** Descargué y Descomprime
-### [`Katashi-bot ~ Archivos`](https://github.com/elianm45/Katashi–bot/archive/refs/heads/master.zip)
+### [`Katashi-bot ~ Archivos`](https://github.com/eliann45/Katashi–bot/archive/refs/heads/master.zip)
 [![blog](https://img.shields.io/badge/NO_TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://www.youtube.com/shorts/ZLJYDUM6vSY)
 ```bash
