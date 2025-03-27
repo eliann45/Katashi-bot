@@ -19,7 +19,7 @@
 <p align="center">
 
 <p align="center">
-<a href="#"><img title="KatashiBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APÓYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Katashi-bot" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APÓYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>  
 
 <p align="center">
@@ -27,9 +27,9 @@
 </p>
 
 <p align="center">   
-<a href="https://github.com/KatashiFukushima/KatashiBot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KatashiFukushima/KatashiBot-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/KatashiFukushima/KatashiBot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/KatashiFukushima/KatashiBot-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/KatashiFukushima/KatashiBot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/KatashiFukushima/KatashiBot-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="[[https://github.com/KatashiFukushima/KatashiBot-MD](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot.git)/network/members"><img title="Forks" src="https://img.shields.io/github/forks/eliann45/Katashi-bot?label=Forks&color=blue&style=flat-square"></a>
+<a href="[[https://github.com/eliann45/Katashi-bot](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot.git)/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/eliann45/Katashi-bot?label=Watchers&color=green&style=flat-square"></a>
+<a href="[[[[[[https://github.com/eliann45/Katashi-bot](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot)/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/eliann45/Katashi-bot?label=Stars&color=yellow&style=flat-square"></a>
 </p>
 
 ### Cuentas Oficiales:
@@ -49,7 +49,7 @@
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/KatashiFukushima/KatashiBot-MD/master/katashi.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/eliann45/Katashi-bot/master/katashi.sh | bash
 ```
 ```js
 // PERSONALIZAR INSTALACIÓN AUTOMÁTICA (En caso de una Bifurcación)
@@ -61,11 +61,11 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 // PARÁMETROS QUE PUEDE SER MODIFICADOS --> "[...]"
 "wget -O - https://raw.githubusercontent.com/[usuario]/[repositorio]/[rama]/katashi.sh | bash"
 ```
-#### MODIFICAR ARCHIVO [`katashi.sh`](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/kata.sh)
+#### MODIFICAR ARCHIVO [`katashi.sh`]([[https://github.com/eliann45/Katashi-bot](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot.git)/blob/master/kata.sh)
 ```js
 //LÍNEAS A MODIFICAR
 205 --> "git clone https://github.com/[user]/[repositorio].git"
-//Ejemplo: git clone https://github.com/KatashiFukushima/KatashiBot-MD.git
+//Ejemplo: git clone [https://github.com/eliann45/KatashiBot-MD.git](https://github.com/eliann45/Katashi-bot.git)
 
 209 --> "cd [repositorio]"
 //Ejemplo: cd Katashi–Bot
