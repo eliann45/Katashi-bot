@@ -5,11 +5,11 @@ RUN sudo dnf -y update &&\
     sudo dnf install -y git ffmpeg ImageMagick nodejs yarnpkg libwebp &&\
     sudo dnf clean all -y
 
-RUN git clone https://github.com/KatashiFukushima/KatashiBot-MD
+RUN git clone https://github.com/eliann45/Katashi-bot
 
-WORKDIR /root/KatashiBot-MD
+WORKDIR /root/Katashi-bot 
 
-COPY ./root/KatashiBot-MD
+COPY ./root/Katashi-bot
 
 RUN yarn install
 
