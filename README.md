@@ -10,7 +10,7 @@
 <p align="center">
 
 <p align="center">
-<img src="https://telegra.ph/file/86afc8b4881e2013cded4.jpg" alt="KatashiBot-MD" width="900"/>
+<img src="https://telegra.ph/file/86afc8b4881e2013cded4.jpg" alt="Katashi-bot" width="900"/>
 </p>
 
 > 𝑴𝑼𝑪𝑯𝑨𝑺 𝑮𝑹𝑨𝑪𝑰𝑨𝑺 𝑷𝑶𝑹 𝑷𝑹𝑬𝑭𝑬𝑹𝑰𝑹𝑵𝑶𝑺 😎✨
@@ -27,9 +27,9 @@
 </p>
 
 <p align="center">   
-<a href="[[https://github.com/KatashiFukushima/KatashiBot-MD](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot.git)/network/members"><img title="Forks" src="https://img.shields.io/github/forks/eliann45/Katashi-bot?label=Forks&color=blue&style=flat-square"></a>
-<a href="[[https://github.com/eliann45/Katashi-bot](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot.git)/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/eliann45/Katashi-bot?label=Watchers&color=green&style=flat-square"></a>
-<a href="[[[[[[https://github.com/eliann45/Katashi-bot](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot)/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/eliann45/Katashi-bot?label=Stars&color=yellow&style=flat-square"></a>
+<a href="[[https://github.com/eliann45/Katashi-bot](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot.git)/network/members"><img title="Forks" src="https://img.shields.io/github/forks/eliann45/Katashi-bot?label=Forks&color=blue&style=flat-square"></a>
+<a href="[[https://github.com/eliann45/Katashi-bot](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot)/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/eliann45/Katashi-bot?label=Watchers&color=green&style=flat-square"></a>
+<a href="[[[[[[https://github.com/eliann45/Katashi-bot](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot)/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/eliann45/Katashi-bot?label=Stars&color=yellow&style=flat-square"></a>
 </p>
 
 ### Cuentas Oficiales:
@@ -61,11 +61,11 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 // PARÁMETROS QUE PUEDE SER MODIFICADOS --> "[...]"
 "wget -O - https://raw.githubusercontent.com/[usuario]/[repositorio]/[rama]/katashi.sh | bash"
 ```
-#### MODIFICAR ARCHIVO [`katashi.sh`]([[https://github.com/eliann45/Katashi-bot](https://github.com/eliann45/Katashi-bot.git)](https://github.com/eliann45/Katashi-bot.git)/blob/master/kata.sh)
+#### MODIFICAR ARCHIVO [`katashi.sh`]([[https://github.com/eliann45/Katashi-bot](https://github.com/eliann45/Katashi-bot)](https://github.com/eliann45/Katashi-bot)/blob/master/kata.sh)
 ```js
 //LÍNEAS A MODIFICAR
 205 --> "git clone https://github.com/[user]/[repositorio].git"
-//Ejemplo: git clone [https://github.com/eliann45/KatashiBot-MD.git](https://github.com/eliann45/Katashi-bot.git)
+//Ejemplo: git clone [https://github.com/eliann45/KatashiBot-MD](https://github.com/eliann45/Katashi-bot)
 
 209 --> "cd [repositorio]"
 //Ejemplo: cd Katashi–Bot
@@ -110,7 +110,7 @@ npm start
   
 ### 📁 (OPCIÓN 3) INSTALACIÓN POR TERMUX - ARCHIVOS
 > **Note** Descargué y Descomprime
-### [`KatashiBot-MD ~ Archivos`](https://github.com/elianm45/Katashi–bot/archive/refs/heads/master.zip)
+### [`Katashi-bot ~ Archivos`](https://github.com/elianm45/Katashi–bot/archive/refs/heads/master.zip)
 [![blog](https://img.shields.io/badge/NO_TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://www.youtube.com/shorts/ZLJYDUM6vSY)
 ```bash
@@ -125,7 +125,7 @@ npm start
 ```
 * #### APLICACIÓN RECOMENDADA PARA [`DESCOMPRIMIR`](https://play.google.com/store/apps/details?id=com.rarlab.rar)
 * #### APLICACIÓN RECOMENDADA PARA EDITAR [`NÚMERO DE OWNER`](https://play.google.com/store/apps/details?id=com.rhmsoft.code)
-> **Note** Guardar los archivos en la ubicación: storage/downloads/KatashiBot-MD-master/KatashiBot-MD-master   
+> **Note** Guardar los archivos en la ubicación: storage/downloads/Katashi-bot-master/Katashi-bot-master   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
   
@@ -188,4 +188,4 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 
 ### 🌟 CREADOR 
 [![eliann45](https://github.com/eliann45.png?size=100)](https://github.com/eliann45) 
-> Copyright (c) 2024 **[eliann45](https://github.com/eliann45/KatashiBot-MD/blob/master/LICENSE)**.
+> Copyright (c) 2024 **[eliann45](https://github.com/eliann45/Katashi-bot/blob/master/LICENSE)**.
